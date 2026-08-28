@@ -3,5 +3,6 @@ public class StudentManager {
         System.out.println("Student Management System");
         System.out.println("Student: Suparna");
         System.out.println("grade:c");
+        System.out.println("git practice")
     }
 }
