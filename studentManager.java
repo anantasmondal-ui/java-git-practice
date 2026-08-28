@@ -3,6 +3,7 @@ public class StudentManager {
         System.out.println("Student Management System");
         System.out.println("Student: Suparna");
         System.out.println("grade:c");
-        System.out.println("git practice")
+        System.out.println("git can not practice");
+        System.out.println("this is my feature branch");
     }
 }
